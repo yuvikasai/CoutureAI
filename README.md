@@ -26,18 +26,9 @@ The following packages are required to run the project:
 
 ## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yuvikasai/CoutureAI.git
-   cd CoutureAI
-2. Open the project in Google Colab to run the backend code and connect to the model:
+1. Open the project in Google Colab to run the backend code.
 
-- Follow the instructions in the notebook to set up and run the backend.
-
-3. For the frontend:
-
-- Open the HTML, CSS, and JavaScript files to customize the user interface as needed.
-- Use the provided code to connect the frontend with the backend for a seamless user experience.
+2. For the frontend, open the HTML, CSS, and JavaScript files.
 
 4. Once the backend is set up in Google Colab and the frontend is ready, users can interact with the app to generate clothing designs based on text descriptions.
 
